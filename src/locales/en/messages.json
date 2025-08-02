@@ -1,0 +1,98 @@
+{
+  "name": {
+    "message": "Umbra"
+  },
+  "description": {
+    "message": "Change the brightness and color temperature of websites using a customizable overlay."
+  },
+  "activateCommand": {
+    "message": "Toggle the overlay"
+  },
+  "globalCommand": {
+    "message": "Toggle the global settings"
+  },
+  "shortcutAssigned": {
+    "message": "Assigned Keyboard Shortcut"
+  },
+  "shortcutUnassigned": {
+    "message": "Keyboard shortcut not assigned."
+  },
+  "shortcutHelp": {
+    "message": "Assign a keyboard shortcut to activate the extension for the current website."
+  },
+  "shortcutAssign": {
+    "message": "Assign"
+  },
+  "on": {
+    "message": "Activate"
+  },
+  "onHelp": {
+    "message": "Turn on the overlay for the current website."
+  },
+  "onDisabledHelp": {
+    "message": "Due to browser limitations, this website cannot support an overlay."
+  },
+  "off": {
+    "message": "Deactivate"
+  },
+  "offHelp": {
+    "message": "Turn off the overlay for the current website."
+  },
+  "global": {
+    "message": "Use global settings"
+  },
+  "globalHelp": {
+    "message": "When enabled, the shared global settings are applied."
+  },
+  "opacity": {
+    "message": "Intensity"
+  },
+  "opacityHelp": {
+    "message": "Change the intensity of the overlay. Use the selector above to adjust how the overlay blends with the website."
+  },
+  "blend": {
+    "message": "Blending Mode"
+  },
+  "blendColorBurn": {
+    "message": "Color Burn"
+  },
+  "blendDarken": {
+    "message": "Darken"
+  },
+  "blendDifference": {
+    "message": "Difference"
+  },
+  "blendExclusion": {
+    "message": "Exclusion"
+  },
+  "blendHardLight": {
+    "message": "Hard Light"
+  },
+  "blendLuminosity": {
+    "message": "Luminosity"
+  },
+  "blendMultiply": {
+    "message": "Multiply"
+  },
+  "blendNormal": {
+    "message": "Normal"
+  },
+  "blendSaturation": {
+    "message": "Saturation"
+  },
+  "color": {
+    "message": "Color"
+  },
+  "resetWebsite": {
+    "message": "Reset website"
+  },
+  "resetWebsiteConfirm": {
+    "message": "Are you sure you want to reset the settings for this website?"
+  },
+  "resetAll": {
+    "message": "Reset all websites"
+  },
+  "resetAllConfirm": {
+    "message": "Are you sure you want to reset the settings for all websites?"
+  }
+}
