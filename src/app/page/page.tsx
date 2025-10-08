@@ -1,5 +1,3 @@
-/* eslint-disable no-alert */
-
 import { Box, Button, Callout, Flex, Grid, Select, Separator, Text } from '@radix-ui/themes'
 import { useEffect, useReducer, useState } from 'react'
 import { HexColorPicker } from 'react-colorful'
